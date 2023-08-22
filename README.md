@@ -12,7 +12,7 @@
   </a>
 </div>
 <div id="views" align="center">
-<img src="https://komarev.com/ghpvc/?zeped418&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=zeped418&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **zeped418/zeped418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

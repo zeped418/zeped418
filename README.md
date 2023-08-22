@@ -22,6 +22,20 @@
 </div>
 ---
 
+- :telescope: I’m currently working on personal projects to get more experience.
+
+- :seedling: Front-end and Back-end technologies.
+
+- :zap: I would like to work with incredible people and contribute to the fulfillment of collective goals
+
+- :pirate_flag:	One Piece is the anime what I am watchin by this moment. It's gold.
+
+- 🔭 
+- 🌱 I’m currently learning Full Stack 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+
+  
 <!--
 **zeped418/zeped418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

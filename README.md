@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋
+---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="100"/>
 </div>
@@ -11,9 +11,17 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+
+<!--
 <div id="views" align="center">
 <img src="https://komarev.com/ghpvc/?username=zeped418&style=flat-square&color=blue" alt=""/>
+</div>-->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
+
 <!--
 **zeped418/zeped418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

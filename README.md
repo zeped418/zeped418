@@ -1,6 +1,9 @@
 # Hi there 👋
+## My name is Carlos. Nice to meet you.
 ---
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  <br>
   <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">

@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="40"/>
 ## My name is Carlos. Nice to meet you.
 ---
 <div id="header" align="center">

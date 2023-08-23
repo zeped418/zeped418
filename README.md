@@ -2,9 +2,8 @@
 ## My name is Carlos. Nice to meet you.
 ---
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="200"/>
   <br>
-  <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/carlos-zep-ram" target="_blank">
@@ -14,14 +13,8 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-
-<!--
 <div id="views" align="center">
 <img src="https://komarev.com/ghpvc/?username=zeped418&style=flat-square&color=blue" alt=""/>
-</div>-->
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---

@@ -1,7 +1,6 @@
 # Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-## My name is Carlos. Nice to meet you.
 
----
+## My name is Carlos. Nice to meet you.
 
 ### :technologist: About Me :
 
@@ -12,6 +11,8 @@
 - :zap: I would like to work with incredible people and contribute to the fulfillment of collective goals
 
 - :pirate_flag:	One Piece is the anime what I am watchin by this moment. It's gold.
+
+---
 
 ### 🛠️ Languages and Tools
 <div>
